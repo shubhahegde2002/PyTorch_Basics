@@ -1,2 +1,2 @@
 # PyTorch_Basics
-PyTorch basics 
+PyTorch basics and syntax
